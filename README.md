@@ -18,8 +18,9 @@
 <br/>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sese2204&theme=tokyonight&show_icons=true" width="42%" /><br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese2204)](https://solved.ac/sese2204/)
+ 
 </a>
 </div>
 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese2204)](https://solved.ac/sese2204/)
 
