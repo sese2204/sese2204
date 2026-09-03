@@ -12,7 +12,5 @@
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sese2204" alt="Solved.ac Profile" width="100%" />
       </a>
       <br /><br />
-    
-    </td>
   </tr>
 </table>
